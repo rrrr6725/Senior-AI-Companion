@@ -17,3 +17,13 @@
 - 無音検出による能動的な話題提案機能（GPT-4o-mini使用）
 - BFloat16形式採用による処理の高速化（約23%の処理時間削減）
 - Tkinterベースの字幕付きビデオプレーヤー
+
+## デモ動画
+
+part1：雑談 
+https://www.youtube.com/watch?v=_3XfP1Rm_UE    
+
+part2：なぞなぞ  
+https://www.youtube.com/watch?v=JQ3DcG7iMcw  
+
+
