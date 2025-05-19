@@ -4,7 +4,7 @@
 高齢者の孤独感軽減を目指した、ChatGPT APIとリアルタイムリップシンク機能を組み合わせた対話システムです。
 
 ## 概要
-![Image](https://github.com/user-attachments/assets/5160b6d9-bc66-4510-b091-c06ba2554c04)
+![Image](https://github.com/user-attachments/assets/9cd17569-bd45-4c60-8996-034a42fd2eac)
 
 本システムは、高齢化社会における高齢者の孤独感軽減を目的として開発されました。ChatGPT APIを活用した自然な対話生成と、Wav2Lipによるリップシンク機能を持つアバターを組み合わせることで、より親しみやすい対話環境を実現しています。
 
